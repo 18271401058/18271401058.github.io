@@ -1,0 +1,17 @@
+{
+  "main.css": "./static/css/main.febeab37.chunk.css",
+  "main.js": "./static/js/main.b5a98ddd.chunk.js",
+  "main.js.map": "./static/js/main.b5a98ddd.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.9eb600ee.js",
+  "runtime~main.js.map": "./static/js/runtime~main.9eb600ee.js.map",
+  "static/css/2.843c0397.chunk.css": "./static/css/2.843c0397.chunk.css",
+  "static/js/2.1841568e.chunk.js": "./static/js/2.1841568e.chunk.js",
+  "static/js/2.1841568e.chunk.js.map": "./static/js/2.1841568e.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.61f38c64dc90806c0aa7c988f972b034.js": "./precache-manifest.61f38c64dc90806c0aa7c988f972b034.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/2.843c0397.chunk.css.map": "./static/css/2.843c0397.chunk.css.map",
+  "static/css/main.febeab37.chunk.css.map": "./static/css/main.febeab37.chunk.css.map",
+  "static/media/GoodsType.less": "./static/media/icon_home.aa0ff510.png",
+  "static/media/iconfont.css": "./static/media/iconfont.f74be71b.ttf"
+}
